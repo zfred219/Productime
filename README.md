@@ -11,6 +11,7 @@ Productime is an IOS app to help people schedule their daily tasks and improve p
 Note: for the demo purpose, the time and animation for each work interval is only 15 seconds (Real one should be 25 minutes).
 <br/><br/>
 <span>
-    <img src="documentSrc/demo1.gif"  width="200" height="400" hspace="100" />
-    <img src="documentSrc/demo2.png"  width="200" height="400"/>
+    <img src="documentSrc/demo1.gif"  width="200" height="400" hspace="20" />
+    <img src="documentSrc/demo2.png"  width="200" height="400" hspace="50" />
+    <img src="documentSrc/demo3.png"  width="200" height="400"/>
 </span> 
